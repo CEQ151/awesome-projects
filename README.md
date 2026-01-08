@@ -90,6 +90,16 @@ Meta 推出的专业音频分割模型，可实现精准的音频内容分割，
 
 [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 
+#### AI制作PPT
+
+PPT Agent  
+PPTAgent 是中科院计算所开源的项目。它不仅能根据一句话生成PPT，
+还能直接读懂长文档，自动提炼重点生成幻灯片。与市面上简单的文本转Markdown转PPT不同，
+PPTAgent 采用了一种更加智能的多智能体（Multi-Agent） 流程，
+模拟了人类制作 PPT 的完整思考过程。
+
+[ppt-agent](https://github.com/icip-cas/PPTAgent)
+
 ### 2.2 AI 智能体
 
 #### AI 接管系统 - TuriX-CUA
